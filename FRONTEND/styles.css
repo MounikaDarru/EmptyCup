@@ -1,0 +1,159 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #fefaf3;
+  color: #333;
+}
+
+img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 24px;
+  border-bottom: 1px solid #ddd;
+  background: #fff;
+}
+
+.logo-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo {
+  height: 32px;
+  width: 32px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.menu-icon {
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-around;
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  padding: 24px 15px;
+}
+
+.nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 12px;
+  color: #888;
+}
+
+.nav-item.active {
+  color: #da2824;
+  font-weight: bold;
+}
+
+.nav-icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  margin-bottom: 6px;
+}
+
+.listing-container {
+  padding: 15px;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  padding: 16px;
+}
+
+.card-left {
+    width:85%;
+  padding-right: 10px;
+  border-right: 1px solid #ccc;
+}
+
+.card-right {
+  width: 15%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+  gap: 12px;
+  margin-left: 15px;
+}
+
+.light-bg {
+  background-color: #fffcf2;
+}
+
+.card h2 {
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+
+.rating {
+  color: #000;
+  margin-bottom: 8px;
+}
+
+.card-left p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.stats {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 10px;
+}
+
+.stats div {
+  text-align: center;
+  font-size: 14px;
+}
+
+.contact p {
+  font-size: 14px;
+  margin: 2px 0;
+}
+
+.icon {
+  background: none;
+  border: none;
+  color: #da2824;
+  font-size: 12px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.card-icon {
+  width: 16px;
+  height: 16px;
+  margin-bottom: 4px;
+}
+
+.shortlist.filled {
+  font-weight: bold;
+}
+
+strong {
+  font-size: 16px;
+}
