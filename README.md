@@ -16,7 +16,10 @@ A full-stack designer listing web app built with Flask (backend) and static HTML
 
 ## 🌐 Live Links
 
-🔗 [https://myassignments-emptycup.netlify.app]
+| Part       | Link                                                                 |
+|------------|----------------------------------------------------------------------|
+| Frontend   | 🔗 [https://myassignments-emptycup.netlify.app] |
+| Backend API| 🔗 [https://emptycup-atk7.onrender.com/api/designers] |
 
 ---
 
@@ -35,3 +38,5 @@ A full-stack designer listing web app built with Flask (backend) and static HTML
 - Hosted on **Render.com**
 
 ---
+
+
