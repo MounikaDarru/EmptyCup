@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let shortlistedActive = false;
 
   // Load designers data
-  fetch("http://localhost:5000/api/designers")
+  fetch("https://emptycup-atk7.onrender.com/api/designers")
     .then(res => res.json())
     .then(data => {
       designers = data;
