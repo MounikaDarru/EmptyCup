@@ -18,8 +18,8 @@ A full-stack designer listing web app built with Flask (backend) and static HTML
 
 | Part       | Link                                                                 |
 |------------|----------------------------------------------------------------------|
-| Frontend   | 🔗 [https://myassignments-emptycup.netlify.app] |
-| Backend API| 🔗 [https://emptycup-atk7.onrender.com/api/designers] |
+| Frontend   | 🔗 [https://myassignments-emptycup.netlify.app](https://myassignments-emptycup.netlify.app) |
+| Backend API| 🔗 [https://emptycup-atk7.onrender.com/api/designers](https://emptycup-atk7.onrender.com/api/designers) |
 
 ---
 
